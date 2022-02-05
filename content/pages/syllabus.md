@@ -60,20 +60,144 @@ Inter-University Initiative on [Humanitarian Studies and Field Practice](http://
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part I: Foundations and Fundamentals**{{< /td-colspan >}} ||
-| 1 | Introduction - Intersections and Interconnections |
-| 2 | Globalization Dimensions and Domains |
-| 3 | Theoretical Contentions and Historical Patterns |
-| 4 | Growth, Development, Environment and Complexity |
-| 5 | Knowledge, Technology, and International Transactions |
-| {{< td-colspan 2 >}}**Part II: Crossing Borders - Migration Matters**{{< /td-colspan >}} ||
-| 6 | Theories of Migration and Population Movements |
-| 7 | International Migration and National Security |
-| 8 | The State and Its Institutions |
-| {{< td-colspan 2 >}}**Part III: Shaping International Relations**{{< /td-colspan >}} ||
-| 9 | Insights from International Relations Theories |
-| 10 | Dynamics of International Political Economy |
-| 11 | Institutional Challenges - National and International |
-| 12 | Transcending the State - Globalization and Civil Society
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part I: Foundations and Fundamentals**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction - Intersections and Interconnections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization Dimensions and Domains
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Theoretical Contentions and Historical Patterns
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Growth, Development, Environment and Complexity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Knowledge, Technology, and International Transactions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part II: Crossing Borders - Migration Matters**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Theories of Migration and Population Movements
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+International Migration and National Security
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The State and Its Institutions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part III: Shaping International Relations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Insights from International Relations Theories
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of International Political Economy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Institutional Challenges - National and International
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Transcending the State - Globalization and Civil Society
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
